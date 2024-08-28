@@ -1,4 +1,6 @@
 Demographic Data Analyzer
+
+
 This project is a Python-based data analysis tool that explores and visualizes demographic data. By using various data manipulation and visualization libraries, the project provides insights into population distributions, age groups, gender ratios, income levels, and education statistics across different regions. The analysis is designed to be flexible, allowing for detailed examination of specific demographic trends or comparisons between regions.
 Features:
 >Data Cleaning and Preprocessing: Import and clean raw demographic data for accurate analysis.
